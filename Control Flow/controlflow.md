@@ -1,6 +1,6 @@
 - Control flow refers to the order in which statements are executed in a program
 
-<s>Control Flow Statements:
+- Control Flow Statements:
  1. Conditional Statement (if, if else)
  
     Syntax : if(condition){
