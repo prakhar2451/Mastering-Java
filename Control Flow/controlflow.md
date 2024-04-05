@@ -3,7 +3,9 @@
 - Control Flow Statements:
  1. Conditional Statement (if, if else)
  
-    Syntax : if(condition){
+-    Syntax : 
+    if(condition){
+
                // code block for true condition
              }else{
                 //code block for false condition
